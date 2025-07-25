@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Day1
+class Exercise1
 {
 
 public:
@@ -37,7 +37,7 @@ public:
 
 void teste()
 {
-    Day1 *gcd = new Day1();
+    Exercise1 *gcd = new Exercise1();
 
     string str1 = "ABCDEF";
     string str2 = "ABC";
