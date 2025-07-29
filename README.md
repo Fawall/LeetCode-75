@@ -1,1 +1,1 @@
-### Este repositório tem como objetivo salvar os 75 exercicios que serão feitos do plano de estudos do LeetCode
+### This repository this has objective, save the 75 exercise that will be made the study plan from Leet Code 
